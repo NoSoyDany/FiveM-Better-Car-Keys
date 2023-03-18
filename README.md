@@ -7,7 +7,12 @@ This script is programmed to work with scripts like Jobs Creator (working by def
 > Dependencies
 ```
 ESX Legacy: https://github.com/esx-framework/esx_core
-ESX_VehicleShop
+ESX_VehicleShop (Other cardealer can be used, but some changes on the code may be required, check our docs.)
+```
+
+> Optional (code changes required)
+```
+okokNotify: https://okok.tebex.io/package/4724993
 ```
 
 ## Developer docs 
